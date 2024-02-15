@@ -1,12 +1,22 @@
 ### Hi there  Hajjouj Marouane 👋
 
-From: 10 July 2020 - To: 06 August 2022
+# Profile Activity Generator
 
-Total Time: 1,464 hrs 54 mins
+Generate custom profile activity for your profile READMEs
 
-Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
-Markdown           132 hrs 33 mins >>-----------------------   08.43 %
-TeX                103 hrs 52 mins >>-----------------------   06.61 %
-HTML               94 hrs 48 mins  >>-----------------------   06.03 %
-Nim                64 hrs 31 mins  >------------------------   04.11 %
-Other              47 hrs 58 mins  >------------------------   03.05 %
+🚧 Work In Progress 
+
+## How To Use
+
+### Modifying Individual Squares
+- Click on a square to increase its intensity (darken its color)
+- Press and hold the [SHIFT] key and click a square to decrease its intensity (lighten its color)
+
+### Modifying Multiple Squares
+- Press and hold the [CTRL] key ([CMD] key on Mac) and move your mouse cursor over the squares you wish to increase in intensity (darken)
+- Press and hold both the [CTRL] key ([CMD] key on Mac) and the [SHIFT] key, then move your mouse cursor over the squares you wish to decrease in intensity (lighten)
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+</div>
